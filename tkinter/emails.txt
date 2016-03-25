@@ -1,0 +1,1 @@
+{'Parker Pi': 'parkerraspberrypi@gmail.com', 'Seth': 'mathmania3@gmail.com', 'Zach': 'yakbakzak@gmail.com', 'Tom': 'tkimball@compute4fun.com'}
